@@ -1,4 +1,4 @@
-## 👋 Hello there!
+## 👋 Hello there! (WIP)
 My name is Wayne Cen! I'm a designer, developer, and writer.
 ###### I'm 
 
