@@ -8,9 +8,13 @@ My name is Wayne Cen! I'm a designer, developer, and writer.
 ---
 I'm currently learning Data Structures & Algorithms!
 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
+MongoDB,
+Express,
+React,
+NodeJS
 
 
 ### ✍🏻 Writing
