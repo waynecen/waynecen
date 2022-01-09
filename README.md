@@ -4,6 +4,8 @@ Hi there! I'm Wayne!
 I'm a designer, developer, and writer.
 ###### I'm ...
 
+Aside from programming, my hobbies include: badminton🏸, volleyball🏐, video games🕹️,  
+
 ##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • [Twitter](https://twitter.com/cenwayner) • <b>[Email](mailto:wayne.cen@gmail.com)</b>
 
 ## 🍔 Tech Stack
