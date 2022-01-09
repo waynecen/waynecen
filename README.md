@@ -1,10 +1,8 @@
 ## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.github.io)
-Hi there! I'm Wayne! 
-
-I'm a designer, developer, and writer.
+### Hi, I'm Wayne! <br> I'm a web designer, developer, and writer.
 ###### I'm ...
 
-Aside from programming, my hobbies include: badminton🏸, volleyball🏐, video games🕹️,  
+Aside from programming, I'm really into badminton🏸, volleyball🏐, and video games🕹️
 
 ##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • [Twitter](https://twitter.com/cenwayner) • <b>[Email](mailto:wayne.cen@gmail.com)</b>
 
@@ -13,7 +11,7 @@ Aside from programming, my hobbies include: badminton🏸, volleyball🏐, video
 ###### Frameworks — Express, React, Node.js, BootStrap
 ###### Data — MongoDB, Git
 
-Currently studying Data Structures & Algorithms!
+Currently studying, Data Structures & Algorithms by Princeton University
 
 
 ## ✍🏻 Writing
