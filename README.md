@@ -15,7 +15,7 @@ Currently taking/studying, Data Structures & Algorithms Part 1 by Princeton Univ
 
 
 ## ✍🏻 Writing
-Every so often, I like to write about my thoughts on design and other explorative subjects. Feel free to check out some of my most recent articles:
+I like to write about my thoughts on design and other explorative subjects. Feel free to check out some of my most recent articles:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0" alt="Recent Article 0">
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/1" alt="Recent Article 0">
