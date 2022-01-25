@@ -8,8 +8,9 @@ Aside from programming, I also enjoy badminton🏸, volleyball🏐, and video ga
 
 ## 🍔 Tech Stack
 ###### Languages — HTML, CSS, JavaScript, TypeScript
-###### Frameworks — Express, React, Node.js, BootStrap
-###### Data — MongoDB, Git
+###### Frameworks — Express, React, Node.js, BootStrap, Sass, ThreeJS
+###### Data — MongoDB
+###### Other — Git
 
 Currently taking/studying, Data Structures & Algorithms Part 1 by Princeton University
 
