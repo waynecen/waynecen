@@ -7,7 +7,7 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 ##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • [Twitter](https://twitter.com/cenwayner) • <b>[Email](mailto:wayne.cen@gmail.com)</b>
 
 ## 🍔 Tech Stack
-##### <b>Languages</b> — HTML, CSS, JavaScript, TypeScript
+##### <b>Languages</b> — HTML, CSS, JavaScript, TypeScript, Java, C
 ##### Frameworks — React, Express, Node.js, BootStrap, Sass, ThreeJS
 ##### Data/Tools — MongoDB, Webpack, Git, Bash
 
