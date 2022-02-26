@@ -1,8 +1,6 @@
 ## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.github.io)
-### Hi, I'm Wayne! <br> I'm a web designer, developer, and writer.
-###### ...this section is still a WIP
-
-I believe in 
+### Hi, I'm Wayne! <br> I'm a product designer, creative developer, and writer.
+###### ...this section is a WIP
 
 Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹️, and photography📷.
 
