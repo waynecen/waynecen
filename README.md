@@ -2,16 +2,20 @@
 ### Hi, I'm Wayne! <br> I'm a web designer, developer, and writer.
 ###### ...this section is still a WIP
 
+I believe in 
+
 Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹️, and photography📷.
 
 ##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • [Twitter](https://twitter.com/cenwayner) • <b>[Email](mailto:wayne.cen@gmail.com)</b>
 
 ## 🍔 Tech Stack
-##### <b>Languages</b> — HTML, CSS, JavaScript, TypeScript, Java, C
-##### Frameworks — React, Express, Node.js, BootStrap, Sass, ThreeJS
-##### Data/Tools — MongoDB, Webpack, Git, Bash
+##### <b>Languages</b> — HTML, CSS, JavaScript, Java, C
+##### Frameworks — React, Sass, ThreeJS
+##### Data/Tools — Git, Bash, Webpack
+##### Design - Figma, Adobe Creative Suite, Blender
 
 ###### Currently studying CS50x from Harvard
+###### Learning in progress — TypeScript, MongoDB, Express, Node.js, Webpack, Svelte
 
 
 ## ✍🏻 Writing
