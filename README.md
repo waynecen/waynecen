@@ -7,13 +7,13 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 ##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • [Twitter](https://twitter.com/cenwayner) • <b>[Email](mailto:wayne.cen@gmail.com)</b>
 
 ## 🍔 Tech Stack
-##### <b>Languages</b> — HTML, CSS, JavaScript, Java, C
-##### Frameworks — React, Sass, ThreeJS
-##### Data/Tools — Git, Bash, Webpack
+##### Languages — HTML, CSS, JavaScript, Java, C, Python
+##### Libraries & Frameworks — Svelte, Sass, ThreeJS
+##### Tools & Platforms — Git, Bash, Webpack
 ##### Design - Figma, Adobe Creative Suite, Blender
 
-###### Currently studying CS50x from Harvard
-###### Learning in progress — TypeScript, MongoDB, Express, Node.js, Webpack, Svelte
+###### Currently studying Data Structures and Algorithms from Harvard CS50x
+###### Learning in progress — MongoDB, Express, Node.js, Docker
 
 
 ## ✍🏻 Writing
