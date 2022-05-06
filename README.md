@@ -9,7 +9,7 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 ## 🍔 Tech Stack
 | <!-- -->              | <!-- -->                                                       |
 | :---                  | :---                                                           |
-| __Programming__       | HTML, CSS, JavaScript, Java, Python, C, SQL, TypeScript        |
+| __Languages__         | HTML, CSS, JavaScript, TypeScript, Java, Python, C, SQL        |
 | __Frameworks__        | Svelte, React, ThreeJS, Sass                                   |
 | __Tools & Platforms__ | Git, Bash, Webpack                                             |
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
