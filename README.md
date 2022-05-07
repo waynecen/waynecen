@@ -10,8 +10,8 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 | <!-- -->              | <!-- -->                                                       |
 | :---                  | :---                                                           |
 | __Languages__         | HTML, CSS, JavaScript, TypeScript, Java, Python, C, SQL        |
-| __Frameworks__        | Svelte, React, ThreeJS, Sass                                   |
-| __Tools & Platforms__ | Git, Bash, Webpack                                             |
+| __Frameworks__        | Svelte, React, ThreeJS, Sass, BootStrap                        |
+| __Tools__             | Git, Bash, Webpack                                             |
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
 
 ###### Currently studying Data Structures and Algorithms from Harvard CS50x
