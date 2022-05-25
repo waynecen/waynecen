@@ -10,7 +10,7 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 | <!-- -->              | <!-- -->                                                       |
 | :---                  | :---                                                           |
 | __Languages__         | HTML, CSS, JavaScript, TypeScript, Java, Python, C, SQL        |
-| __Frameworks__        | React, SvelteKit, ThreeJS, Sass, BootStrap                     |
+| __Frameworks__        | React, SvelteKit, ThreeJS, Sass                                |
 | __Tools__             | Git, Bash, Webpack                                             |
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
 
