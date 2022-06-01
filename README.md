@@ -1,6 +1,6 @@
-## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.github.io)
-### Hi, I'm Wayne! <br> I'm a product designer, creative developer, and writer.
-###### ...this section is a WIP
+## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.com)
+### Hi, I'm Wayne! <br> I'm a product designer, developer, and writer.
+###### ...WIP
 
 Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹️, and photography📷.
 
@@ -14,7 +14,6 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 | __Tools__             | Git, Bash, Webpack                                             |
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
 
-###### Currently studying Data Structures and Algorithms from Harvard CS50x
 ###### Learning in progress — MongoDB, Express, Node.js
 
 
