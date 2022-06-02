@@ -11,7 +11,7 @@ Aside from programming, I enjoy badminton🏸, volleyball🏐, video games🕹�
 | :---                  | :---                                                           |
 | __Languages__         | HTML, CSS, JavaScript, TypeScript, Java, Python, C, SQL        |
 | __Frameworks__        | React, SvelteKit, ThreeJS, Sass                                |
-| __Tools__             | Git, Bash, Webpack                                             |
+| __Tools__             | Jest, Git, Bash, Webpack                                       |
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
 
 ###### Learning in progress — MongoDB, Express, Node.js
