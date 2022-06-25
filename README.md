@@ -8,9 +8,9 @@ Hi, I'm Wayne! I'm a design graduate from Toronto, Canada who has found a passio
 ## 🍔 Tech Stack
 | <!-- -->              | <!-- -->                                               |
 | :---                  | :---                                                   |
-| __Languages__         | JavaScript, HTML, CSS, SQL, Python, C, Java            |
+| __Languages__         | HTML, CSS, JavaScript, SQL, Python, C, Java            |
 | __Frameworks__        | React, Svelte(Kit), ThreeJS, Sass, Tailwind, BootStrap |
-| __Tools__             | Git, Bash, Webpack, Jest                               |
+| __Tools__             | Git, Bash, Jest, Webpack                               |
 | __Design__            | Figma, Adobe Creative Suite, Blender                   |
 
 ###### Learning in progress — MongoDB, Express, Node.js
