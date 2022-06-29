@@ -13,7 +13,7 @@ Hi, I'm Wayne! I'm a design graduate from Toronto, Canada who has found a passio
 | __Tools__             | Git, Bash, Jest, Webpack                               |
 | __Design__            | Figma, Adobe Creative Suite, Blender                   |
 
-###### Learning in progress — MongoDB, Express, Node.js
+###### Learning in progress — TypeScript, MongoDB, Express, Node.js
 
 
 ## ✍🏻 Writing
