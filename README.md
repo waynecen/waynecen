@@ -17,7 +17,6 @@ Hi, I'm Wayne! I'm a design graduate from Toronto, Canada who has found a passio
 
 
 ## ✍🏻 Writing
-I like to write about my thoughts on design and other explorative subjects. Feel free to check out some of my most recent articles:
+I like to write about my thoughts on design and other explorative subjects. Feel free to check out my most recent article:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/1" alt="Recent Article 0">
