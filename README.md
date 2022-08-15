@@ -9,7 +9,7 @@ Hi, I'm Wayne! I'm a design graduate from Toronto, Canada who has found a passio
 | <!-- -->              | <!-- -->                                                |
 | :---                  | :---                                                    |
 | __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python, C, Java |
-| __Frameworks__        | React, Svelte(Kit), ThreeJS, Sass, Tailwind             |
+| __Frameworks__        | React, Next.js, Svelte(Kit), ThreeJS, Sass, Tailwind             |
 | __Tools__             | Git, Bash, Jest, Webpack                                |
 | __Design__            | Figma, Adobe Creative Suite, Blender                    |
 
