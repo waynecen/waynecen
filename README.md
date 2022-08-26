@@ -8,8 +8,8 @@ Hi, I'm Wayne! I'm a design graduate from Toronto, Canada who has found a passio
 ## 🍔 Tech Stack
 | <!-- -->              | <!-- -->                                                |
 | :---                  | :---                                                    |
-| __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python, C, Java |
-| __Frameworks__        | React, Next.js, Svelte(Kit), ThreeJS, Sass, Tailwind             |
+| __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python, C       |
+| __Frameworks__        | React, Next.js, Svelte(Kit), ThreeJS, Sass, Tailwind    |
 | __Tools__             | Git, Bash, Jest, Webpack                                |
 | __Design__            | Figma, Adobe Creative Suite, Blender                    |
 
