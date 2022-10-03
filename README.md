@@ -1,5 +1,5 @@
 ## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.com)
-Hi, I'm Wayne! I'm a design graduate from Toronto, Canada who has found a passion for programming. I started learning how to program in Oct 2021, through Harvard's CS50x course, The Odin Project (full stack web development course), Scrimba, and _a lot_ of Googling. I am someone who really enjoys problem solving and learning new things to develop my strengths.
+Hi, I'm Wayne! I'm a software developer and product designer. I started learning how to program since Oct 2021, through The Odin Project (full stack web development course), Scrimba, and a lot of Googling. I am someone who really enjoys problem solving and learning new things to develop my strengths.
 
 ###### When I'm not programming, I'm developing these hobbies:🏸🏐🎾🕹️📷
 
