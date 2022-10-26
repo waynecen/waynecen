@@ -10,7 +10,7 @@ Hi, I'm Wayne! I'm a software developer and product designer. I started learning
 | :---                  | :---                                                                        |
 | __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python, C                           |
 | __Frameworks__        | React, Redux, Node.js, Express.js, Next.js, Svelte, ThreeJS, Sass, Tailwind |
-| __Tools & Databases__ | MongoDB, mySQL, Git, Jest, Webpack                                          |
+| __Tools & Databases__ | MongoDB, MySQL, Git, Jest, Webpack                                          |
 | __Design__            | Figma, Adobe Creative Suite, Blender                                        |
 
 ## ✍🏻 Writing
