@@ -14,6 +14,6 @@ Hi, I'm Wayne! I'm a software developer and product designer. I started learning
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
 
 ## ✍🏻 Writing
-I like to write about my thoughts on design and process to coding. Feel free to check out my most recent articles:
+I like to write about my thoughts on design and process to coding. Feel free to check out my most recent article:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0" alt="Recent Article 0">
