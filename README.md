@@ -1,5 +1,5 @@
 ## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.com)
-Hi, I'm Wayne! I'm a software developer and product designer. I started learning how to program since Oct 2021, through The Odin Project (full stack web development course), and Scrimba. I enjoy problem solving and using my design background to develop intuitive and user-friendly experiences.
+Hi, I'm Wayne! I'm a software developer and digital designer. I started learning how to program since Oct 2021, through The Odin Project (full stack web development course), and Scrimba. I enjoy problem solving, using my design background to develop intuitive and user-friendly experiences.
 
 ###### When I'm not programming, I'm developing these hobbies:🏸🏐🎾🕹️📷
 
@@ -8,9 +8,9 @@ Hi, I'm Wayne! I'm a software developer and product designer. I started learning
 ## 🍔 Tech Stack
 | <!-- -->              | <!-- -->                                                       |
 | :---                  | :---                                                           |
-| __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python, C              |
+| __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python                 |
 | __Frameworks__        | React, Redux, Node.js, Express, Next.js, Svelte, ThreeJS, Sass |
-| __Tools & Databases__ | MongoDB, MySQL, Git, Jest, Webpack                             |
+| __Tools & Data__      | MongoDB, MySQL, Jest, Vite, Git                                |
 | __Design__            | Figma, Adobe Creative Suite, Blender                           |
 
 ## ✍🏻 Writing
