@@ -1,19 +1,14 @@
 ## 👋 Wayne Cen — @waynercen — [<u>Portfolio &#8594;</u>](https://waynecen.com)
-Hi, I'm Wayne! I'm a software developer and digital designer. I started learning how to program through The Odin Project (full stack web development course), and Scrimba. I enjoy problem solving, using my design background to develop intuitive and user-friendly experiences.
+Hi, I'm Wayne! I'm a software developer and digital designer. I started my programming journey through The Odin Project (full stack web development curriculum). I enjoy problem solving, using my design background to develop intuitive and user-friendly experiences.
 
-###### When I'm not programming, I'm developing these hobbies:🏸🏐🎾🕹️📷
+###### When I'm not coding, I'm developing these hobbies:🏸🏐🎾🕹️📷
 
 ##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • <b>[Email](mailto:wayne.cen@gmail.com)</b>
 
 ## 🍔 Tech Stack
-| <!-- -->              | <!-- -->                                                       |
-| :---                  | :---                                                           |
-| __Languages__         | HTML, CSS, JavaScript, TypeScript, SQL, Python                 |
-| __Frameworks__        | React, Next.js, Node.js, Express, Svelte, ThreeJS, Sass        |
-| __Tools & Data__      | MongoDB, MySQL, Jest, Vite, Git                                |
-| __Design__            | Figma, Adobe Creative Suite, Blender                           |
-
-## ✍🏻 Writing
-I like to write about my thoughts on design and process to coding. Feel free to check out my most recent article:
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@wayne.cen/0" alt="Recent Article 0">
+| <!-- -->              | <!-- -->                                         |
+| :---                  | :---                                             |
+| __Languages__         | JavaScript, TypeScript, HTML, CSS, SQL, Python   |
+| __Frameworks__        | React, Next.js, Vue, Svelte, ThreeJS, Sass       |
+| __Tools & Data__      | MongoDB, PostgreSQL, Jest, Git                   |
+| __Design__            | Figma, Adobe Creative Suite, Blender             |
