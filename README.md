@@ -3,7 +3,7 @@ Hi, I'm Wayne! I'm a software developer and digital designer. I started my progr
 
 ###### When I'm not coding, I'm developing these hobbies:🏸🏐🎾🕹️📷
 
-##### <b>[LinkedIn](https://www.linkedin.com/in/waynercen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • <b>[Email](mailto:wayne.cen@gmail.com)</b>
+##### <b>[LinkedIn](https://www.linkedin.com/in/whcen/)</b> • <b>[Medium](https://medium.com/@wayne.cen)</b> • <b>[Email](mailto:me.waynecen@gmail.com)</b>
 
 ## 🍔 Tech Stack
 | <!-- -->              | <!-- -->                                         |
