@@ -9,6 +9,6 @@ Hi, I'm Wayne! I'm a software developer and digital designer. I started my progr
 | <!-- -->              | <!-- -->                                         |
 | :---                  | :---                                             |
 | __Languages__         | JavaScript, TypeScript, HTML, CSS, SQL, Python   |
-| __Frameworks__        | React, Next.js, Vue, Svelte, ThreeJS, Sass       |
-| __Tools & Data__      | MongoDB, PostgreSQL, Jest, Git                   |
+| __Frameworks__        | React, Svelte, ThreeJS, Sass                     |
+| __AI, Tools, Data,__  | Claude Code, MongoDB, Jest, Git                  |
 | __Design__            | Figma, Adobe Creative Suite, Blender             |
